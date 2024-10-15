@@ -1,0 +1,4 @@
+first file
+modified content
+during commit 2
+
